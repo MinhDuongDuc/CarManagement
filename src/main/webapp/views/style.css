@@ -1,0 +1,44 @@
+.red{
+    color: red;
+}
+.pt-15{
+    margin-top: 15px !important;
+}
+.pt-5{
+    margin-top: 5px !important;
+}
+.input-group[class*=col-] {
+    float: left;
+    padding-left: 10px;
+}
+.table-dark{
+    background-color: #eee !important;
+}
+.table {
+    margin-bottom: 0px !important;
+}
+body{
+    font-size: 16px !important;
+}
+.pt-30{
+    margin-top: 30px !important;
+}
+.pl-10{
+    margin-left: 10px !important;
+}
+.navbar-static-top{
+    margin-bottom: 0px !important;
+}
+.pl-48{
+    padding-left: 48px !important;
+}
+.pr-5{
+    padding-right: 5px !important;
+}
+.plr-15{    
+    padding-left: 15px !important;  
+    padding-right: 15px !important;
+}
+.pr-30{
+    padding-right: 30px !important;
+}
